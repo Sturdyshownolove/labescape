@@ -1,0 +1,12 @@
+{
+  "name": "lab-escape",
+  "version": "1.0.0",
+  "description": "Cyberpunk-inspired chemistry memory puzzle browser game",
+  "main": "game-logic.js",
+  "scripts": {
+    "test": "node --test tests/game.test.js"
+  },
+  "keywords": ["puzzle", "game", "chemistry", "memory-game", "web-audio-api"],
+  "author": "Anıl Aygün",
+  "license": "SEE LICENSE IN LICENSE"
+}
